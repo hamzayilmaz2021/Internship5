@@ -5,8 +5,8 @@ public class Deneme {
 		System.out.println("Hamza - 20:33 - Hamza Branch");
 		System.out.println("Hamza - 20:40 - Hamza Branch");
 		System.out.println("Hamza - 20:45 - Hamza Branch");
+		System.out.println("Hamza - 21:07 - Hamza Branch");
 		System.out.println("Orcun FAZLI");
-
 	}
 
 }
